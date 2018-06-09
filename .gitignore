@@ -17,4 +17,5 @@ temp/*
 release/*
 svn/*
 tests/*
+*.zip
 
