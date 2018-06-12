@@ -30,8 +30,8 @@ on GitHub <https://github.com/reatlat/wp-html-global-lang-attribute/issues>
 
 == Screenshots ==
 
-1. The manage tab to add and list your UTM links.
-2. The settings tab to set up Google API key and add campaign parameters.
+1. Before plugin activated
+2. After plugin activated
 
 == Upgrade Notice ==
 
