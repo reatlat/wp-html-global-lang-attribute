@@ -6,4 +6,5 @@
 
 .distignore
 .gitignore
+.gitattributes
 README.md
