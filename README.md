@@ -1,10 +1,10 @@
 # wp-html-global-lang-attribute
 
 [![](https://img.shields.io/badge/Changelog-black.svg?logo=rss)](./CHANGELOG.md)
-[![](https://img.shields.io/badge/release-1.0.1-green.svg)](https://github.com/reatlat/wp-html-global-lang-attribute/releases/tag/v.1.0.1)
+[![](https://img.shields.io/badge/release-1.0.2-green.svg)](https://github.com/reatlat/wp-html-global-lang-attribute/releases/tag/v.1.0.1)
 [![](https://img.shields.io/badge/PHP_5.6-ready-777BB4.svg?logo=php)](https://php.net/)
-[![](https://img.shields.io/badge/PHP_7.2-ready-777BB4.svg?logo=php)](https://php.net/)
-[![](https://img.shields.io/badge/WordPress-5.0.0-blue.svg?logo=wordpress)](https://wordpress.org/)
+[![](https://img.shields.io/badge/PHP_7.4-ready-777BB4.svg?logo=php)](https://php.net/)
+[![](https://img.shields.io/badge/WordPress-5.9-blue.svg?logo=wordpress)](https://wordpress.org/)
 
 <img src="./includes/banner-1544x500.png">
 
