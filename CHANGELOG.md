@@ -1,5 +1,8 @@
 # Changelog
 
+##### v.1.0.2 - 2022/05/25
+- Tested up to WordPress 5.9
+
 ##### v.1.0.1 - 2018/10/21
 - Tested up to WordPress 5.0.0
 
