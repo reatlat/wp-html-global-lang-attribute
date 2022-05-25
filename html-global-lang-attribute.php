@@ -4,14 +4,14 @@
  * Plugin URI:        https://github.com/reatlat/wp-html-global-lang-attribute
  * Description:       This plugin slice the language attribute for HTML tag, For example: lang="en-US" to lang="en"
  * Tags:              lang, language, slice, seo
- * Version:           1.0.3
+ * Version:           1.0.4
  * Author:            Alex Zappa
  * Author URI:        https://alex.zappa.dev/
  * Donate link:       https://www.paypal.me/reatlat/5usd
  * Requires at least: 2.1.0
- * Tested up to:      5.9
+ * Tested up to:      6.0
  * Requires PHP:      5.6
- * Stable tag:        1.0.3
+ * Stable tag:        1.0.4
  * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       html-global-lang-attribute
