@@ -1,7 +1,7 @@
 # wp-html-global-lang-attribute
 
 [![](https://github.com/reatlat/wp-html-global-lang-attribute/actions/workflows/main.yml/badge.svg)](https://github.com/reatlat/wp-html-global-lang-attribute/actions/workflows/main.yml)
-[![](https://img.shields.io/badge/release-1.0.4-green.svg)](https://github.com/reatlat/wp-html-global-lang-attribute/releases/tag/v1.0.4)
+[![](https://img.shields.io/badge/release-1.0.5-green.svg)](https://github.com/reatlat/wp-html-global-lang-attribute/releases/tag/v1.0.5)
 [![](https://img.shields.io/badge/Tested%20up%20to-WP%206.0-blue.svg?logo=wordpress)](https://wordpress.org/)
 
 <img src="./includes/banner-1544x500.png">

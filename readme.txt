@@ -3,9 +3,9 @@ Contributors: reatlat
 Donate link: https://paypal.me/reatlat/5usd
 Tags: lang, language, slice, seo
 Requires at least: 2.1.0
-Tested up to: 6.0
+Tested up to: 6.1
 Requires PHP: 5.6
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,6 +38,9 @@ on GitHub <https://github.com/reatlat/wp-html-global-lang-attribute/issues>
 Nothing for now
 
 == Changelog ==
+
+= 1.0.5 =
+* Tested up to WordPress 6.1
 
 = 1.0.4 =
 * Tested up to WordPress 6.0
